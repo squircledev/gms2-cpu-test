@@ -3,9 +3,13 @@
  
 # Numbers
 cputest1 = 2.2, sleep margin 10ms
+
 cputest2 = 2.2, sleep margin 1ms
+
 cputest3 = 2.3, sleep margin 10ms
+
 cputest4 = 2.3, sleep margin 1ms
+
  
 # Usage
 simply run and check your CPU/GPU usage and note the differences between 2.2 and 2.3 versions of the same project (besides project format differences)
